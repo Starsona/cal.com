@@ -278,7 +278,7 @@ Cal.com, Inc. does not provide official support for Docker, but we will accept f
 
 ### Heroku
 
-<a href="https://heroku.com/deploy?template=https://github.com/calcom/cal.com">
+<a href="https://heroku.com/deploy?template=https://github.com/Starsona/cal.com">
   <img width="185px" height="auto" src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
